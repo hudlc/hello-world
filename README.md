@@ -1,3 +1,3 @@
 # hello-world
-Repositório teste
+Repositório teste\n
 Tentando aprender a usar um pouco melhor o GitHub
